@@ -1,0 +1,106 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "category": "Puzzle",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300"
+  },
+  {
+    "id": "snake",
+    "title": "Snake Classic",
+    "description": "The classic game of snake. Eat the apples and grow longer.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris Clone",
+    "description": "Stack the blocks and clear the lines in this timeless classic.",
+    "url": "https://tetris.com/play-tetris",
+    "category": "Puzzle",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300"
+  },
+  {
+    "id": "minesweeper",
+    "title": "Minesweeper",
+    "description": "Clear the board without hitting any mines.",
+    "url": "https://minesweeper.online/game/1",
+    "category": "Strategy",
+    "thumbnail": "https://picsum.photos/seed/mines/400/300"
+  },
+  {
+    "id": "flappy",
+    "title": "Flappy Bird",
+    "description": "Navigate through the pipes in this challenging arcade game.",
+    "url": "https://flappybird.io/",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/bird/400/300"
+  },
+  {
+    "id": "doodle-jump",
+    "title": "Doodle Jump",
+    "description": "Jump as high as you can in this addictive platformer.",
+    "url": "https://doodlejump.io/",
+    "category": "Platformer",
+    "thumbnail": "https://picsum.photos/seed/jump/400/300"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road? Find out in this endless hopper.",
+    "url": "https://www.crazygames.com/embed/crossy-road",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive a ball down a steep slope and avoid obstacles in this fast-paced game.",
+    "url": "https://www.crazygames.com/embed/slope",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The original idle game where you bake an absurd amount of cookies.",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "category": "Idle",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300"
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible and become the king of the map.",
+    "url": "https://paper-io.com/",
+    "category": "IO",
+    "thumbnail": "https://picsum.photos/seed/paper/400/300"
+  },
+  {
+    "id": "hole-io",
+    "title": "Hole.io",
+    "description": "Control a black hole and consume everything in your path.",
+    "url": "https://hole-io.com/",
+    "category": "IO",
+    "thumbnail": "https://picsum.photos/seed/hole/400/300"
+  },
+  {
+    "id": "shell-shockers",
+    "title": "Shell Shockers",
+    "description": "The world's first browser-based First Person Egger!",
+    "url": "https://shellshock.io/",
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/egg/400/300"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer.",
+    "url": "https://geometrydash.io/",
+    "category": "Platformer",
+    "thumbnail": "https://picsum.photos/seed/geo/400/300"
+  }
+]
